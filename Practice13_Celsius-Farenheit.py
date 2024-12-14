@@ -1,4 +1,4 @@
-# convert celsius to Fdarenheit 
+# convert celsius to Farenheit 
 
 celsius = int(input("Enter the Temperature in Celsius:"))
 Farenheit = (celsius*(9/5))+32
